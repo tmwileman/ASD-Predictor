@@ -3,7 +3,7 @@ This work presents an approach to help with autism diagnosis using Machine Learn
 
 ## The Data
 Data Type: 
-  *Multivariate OR Univariate OR Sequential OR Time-Series OR Text OR Domain-Theory
+  **Multivariate OR Univariate OR Sequential OR Time-Series OR Text OR Domain-Theory
   *Nominal / categorical, binary and continuous
   *Task: Classification
   *Attribute Type: Categorical, continuous and binary
